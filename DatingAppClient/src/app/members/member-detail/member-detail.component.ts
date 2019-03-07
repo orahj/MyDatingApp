@@ -41,7 +41,7 @@ getImages() {
       small: this.user.photos[i].url,
       medium: this.user.photos[i].url,
       big: this.user.photos[i].url,
-      description: this.user.photos[i].decription
+      description: this.user.photos[i].description
     });
 
   }
